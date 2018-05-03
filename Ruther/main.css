@@ -1,0 +1,24 @@
+.main1{
+    margin: 5em auto;
+    width: 50em;
+    padding: 3em;
+    border: 1px solid teal;
+    border-radius: 1em;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    margin: 1em auto;
+    padding-top: 2em;
+}
+
+input{
+    margin-bottom: 1em;
+}
+
+canvas{
+    border: 1px solid red;
+}
